@@ -1,6 +1,6 @@
 
 try:
-    with open('//Users//ozlemsigbeku//Documents//Data//Python_Work//Test.tx') as file:
+    with open('//Users//ozlemsigbeku//Documents//Data//Python_Work//Test.txt') as file:
         print(file.read())
 
     print(file.closed)

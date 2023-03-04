@@ -1,0 +1,5 @@
+Hi
+This is a test
+I am writing a file
+New text alert! I have appended.
+See Ya!
