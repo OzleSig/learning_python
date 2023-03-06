@@ -1,0 +1,10 @@
+name: py
+
+on: 
+  discussion_comment: 
+    -created 'Pls run'
+
+jobs:
+  production-deploy:
+    if: github.repository == 'main/tic_tac_toe.py'
+    runs-on: powershell
